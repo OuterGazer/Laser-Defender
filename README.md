@@ -20,4 +20,5 @@ My additions to the course example are:
 - Ability to pause the game by pressing P
 
 To play the game download the zip file, extract and double click on the executable. You need a resolution compatible with a 9:16 aspect ratio.
+
 Alternatively, the game can be played at https://sharemygame.com/@OuterGazer/laser-defender, without worrying about the aspect ratio.
