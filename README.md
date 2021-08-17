@@ -1,2 +1,2 @@
 # Laser-Defender
-A Space-Invaders/Scrolling-Shooter type of game that runs indefinitely.
+A Space-Invaders/Scrolling-Shooter type of game with bullet hell and infinite gameplay.
